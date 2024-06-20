@@ -3,6 +3,7 @@ package AdvancedJava.Multithreading.fourth;
 import java.util.LinkedList;
 import java.util.Queue;
 
+//Exercise 2.4.a
 public class Four {
     private final Queue<Integer> queue = new LinkedList<>();
     private final int capacity;

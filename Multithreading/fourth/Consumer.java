@@ -1,5 +1,6 @@
 package AdvancedJava.Multithreading.fourth;
 
+//Exercise 2.4.a
 public class Consumer implements Runnable {
     private final Four four;
 
